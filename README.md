@@ -1,5 +1,5 @@
 # 🎮 Impact of Gaming on Health: A Predictive Analysis
-**Author:** [Your Name]  
+**Author:** JRM  
 **Project Status:** 🟡 Phase 4 Complete | Phase 5 (Machine Learning) Upcoming  
 **Date:** February 16, 2026
 
